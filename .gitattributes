@@ -2,5 +2,8 @@
 * text=auto
 
 README.md linguist-generated
-flamegraph.svg linguist-generated
+*.svg linguist-generated
+*.html linguist-generated
+*.css linguist-generated
+*.js linguist-generated
 target/* linguist-generated
