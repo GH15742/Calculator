@@ -2,3 +2,4 @@
 * text=auto
 
 target/* linguist-generated
+README.md linguist-generated
