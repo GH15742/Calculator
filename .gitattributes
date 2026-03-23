@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-target/* linguist-generated
 README.md linguist-generated
+flamegraph.svg linguist-generated
+target/* linguist-generated
