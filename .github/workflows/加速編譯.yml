@@ -1,0 +1,2 @@
+- name: 加速編譯
+  uses: swatinem/rust-cache@v2 # 這是一個專門幫 Rust 做快取的 Action
