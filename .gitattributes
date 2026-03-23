@@ -1,9 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-README.md linguist-generated
+Makefile linguist-generated
 *.svg linguist-generated
 *.html linguist-generated
 *.css linguist-generated
 *.js linguist-generated
-target/* linguist-generated
+target/** linguist-generated
